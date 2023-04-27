@@ -1,0 +1,133 @@
+body {
+    margin: 0;
+}
+
+#navigation {
+    background-color: #FFA858;
+    padding-left: 30px;
+    display: flex;
+    align-items: center;
+    height: 105px;
+}
+
+#chefHat {
+    width: 85px;
+    padding-right: 15px;
+}
+
+#title {
+    display:block;
+    font-size: 40px;
+    color: #F90404;
+    padding-top: 15px;
+    font-weight: bolder;
+}
+
+#description {
+    display: block;
+    padding-top: 30px;
+    padding-left: 30px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#header {
+    padding-left: 80px;
+    padding-top: 60px;
+}
+
+.line {
+    border-color: black
+}
+
+#section1 {
+    padding-left: 80px;
+    padding-top: 20px;   
+    font-size: 20px;
+    text-decoration: underline;
+    color: #8F0A0A;
+}
+
+#section2 {
+    padding-left: 80px;
+    padding-top: 30px;  
+    display:flex;   
+    flex-wrap: wrap;
+}
+
+.image {
+    width: 210px;
+}
+
+.nameCake {
+    color: #F50E0E;
+    font-weight: bold;
+}
+
+
+#restCards {
+    padding-left: 115px;
+}
+
+.otherCards {
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+
+#footer {
+    background-color: #FFA858;
+    margin: 0;
+    height: 80px;
+    padding-bottom: 20px;
+    display: flex;
+    align-items: center;
+    
+}
+
+footer h3 {
+    padding-top: 30px;
+    padding-left: 50px;
+    font-size: 24px;
+}
+
+.socialMedia {
+    width: 60px;
+    padding-right: 20px;
+}
+
+.cakeImage {
+    padding: 30px 45px;
+    padding-left: 80px;
+    width: 580px;
+}
+
+.imageAndIngredients {
+    display: flex;
+}
+
+.ingredientsDiv {
+    margin: 15px 20px;
+}
+
+.ingredients {
+    background-color: #FBC28D;
+    width: 500px;
+    padding-bottom: 18px;
+    padding-top: 20px;
+    white-space: pre;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.methodPreparation {
+    width: 1157px;
+    padding-left: 80px;
+    padding-bottom: 30px;
+    margin-bottom: 0px;
+}
+
+.methodPreparation h3 {
+    background-color:#FBC28D;
+    padding: 15px 20px;
+    text-align: justify;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
