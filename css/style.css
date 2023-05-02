@@ -1,7 +1,10 @@
+/* BODY */
 body {
     margin: 0;
 }
 
+
+/* NAV */
 #navigation {
     background-color: #FFA858;
     padding-left: 30px;
@@ -31,6 +34,8 @@ body {
     font-size: 18px;
 }
 
+
+/* HEADER */
 #header {
     padding-left: 80px;
     padding-top: 60px;
@@ -40,6 +45,8 @@ body {
     border-color: black
 }
 
+
+/* SECTION 1 */
 #section1 {
     padding-left: 80px;
     padding-top: 20px;   
@@ -48,6 +55,8 @@ body {
     color: #8F0A0A;
 }
 
+
+/* SECTION 2 */
 #section2 {
     padding-left: 80px;
     padding-top: 30px;  
@@ -74,6 +83,8 @@ body {
     padding-bottom: 70px;
 }
 
+
+/* FOOTER */
 #footer {
     background-color: #FFA858;
     margin: 0;
@@ -95,6 +106,8 @@ footer h3 {
     padding-right: 20px;
 }
 
+
+/* MAIN */
 .cakeImage {
     padding: 30px 45px;
     padding-left: 80px;
